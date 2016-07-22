@@ -1,10 +1,10 @@
 # JumpingBirdGame-Android-App
 
-<u>Demo</u>
+Demo
 
 ![Screenshot](https://github.com/abhishek70/JumpingBirdGame-Android-App/blob/master/demo.gif)
 
 
-<u>Library / Framework :</u>
+Library / Framework :
 
 <a href="https://libgdx.badlogicgames.com/">libGDX</a>
